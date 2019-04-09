@@ -1,0 +1,23 @@
+{
+  "name": "hw-week2-day1",
+  "version": "1.0.0",
+  "main": "bus.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbees/hw-week2-mon-busStop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattbees/hw-week2-mon-busStop/issues"
+  },
+  "homepage": "https://github.com/mattbees/hw-week2-mon-busStop#readme",
+  "description": ""
+}
